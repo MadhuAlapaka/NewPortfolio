@@ -1,4 +1,4 @@
-# 🌐 Web Interface Project - Nagur 🧠💡
+# 🌐 Web Interface Project - Madhu Portfolio  🧠💡
 
 This repository contains a **basic web project** structure designed to serve as a template or starting point for frontend development. It includes an `index.html` page and presentation material to explain the concept. A `.git/` folder is also present to indicate version control setup.
 
